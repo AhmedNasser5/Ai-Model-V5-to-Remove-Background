@@ -1,4 +1,4 @@
-# Background Removal Pipeline — Model 1
+# Background Removal Pipeline — Model V5
 
 **Ensemble Segmentation: BiRefNet + rembg (IS-Net)**  
 **Target:** Egyptian Monuments & Landmarks (Foreground Only — People Excluded)
